@@ -14,5 +14,6 @@ public class FirstClass {
     public void stat(){
         int a=10;
         System.out.println(a);
+        System.out.println(22);
     }
 }
